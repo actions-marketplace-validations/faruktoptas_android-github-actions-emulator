@@ -1,12 +1,13 @@
 # Android emulator GitHub Action
 
+This action is the modified version of [vgaidarji/android-github-actions-emulator](https://github.com/vgaidarji/android-github-actions-emulator)
 A GitHub Action for running Android UI tests on Android emulator.
 
 # Usage
 
 ```yml
 - name: "Run UI Tests"
-  uses: vgaidarji/android-github-actions-emulator@v1.0.1
+  uses: faruktoptas/android-github-actions-emulator@latest
 ```
 
 Under the hood the action runs `./gradlew connectedAndroidTest` to run UI tests.

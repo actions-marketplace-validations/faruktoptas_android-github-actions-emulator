@@ -1,6 +1,6 @@
-name: 'Android Emulator'
+name: 'Android Emulator (faruktoptas)'
 description: 'Run UI tests on Android emulator'
-author: 'Veaceslav Gaidarji <veaceslav.gaidarji@gmail.com>'
+author: 'Faruk Toptas <faruktoptas@gmail.com>'
 branding:
   icon: 'smartphone'
   color: 'green'
